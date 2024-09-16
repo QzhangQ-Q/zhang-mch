@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  ![image](https://github.com/user-attachments/assets/f5bee400-c738-4c30-aef0-999681a2f121)
-<!---
-zhang-mch/zhang-mch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
