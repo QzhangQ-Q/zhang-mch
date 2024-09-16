@@ -47,7 +47,7 @@
 我推
 
 -![image](https://github.com/user-attachments/assets/82982838-9336-4af6-a930-ac4aecc197bf)
-[![Everything Is AWESOME](https://img.youtube.com/vi/qIg7dGhuoxE?si=uBZ5IXKeM7DAr9bg)](https://www.youtube.com/live/qIg7dGhuoxE?si=uBZ5IXKeM7DAr9bg"Everything Is AWESOME")
+(https://www.youtube.com/live/qIg7dGhuoxE?si=uBZ5IXKeM7DAr9bg)
 
 
 ![image](https://github.com/user-attachments/assets/ed02352c-2de6-4bda-aea1-364301e25c7b)
