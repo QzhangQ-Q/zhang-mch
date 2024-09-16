@@ -31,11 +31,7 @@
 |zebra        |stripes	are neat	|$1
 |test	        |測試	              |$3333
 
-//外部連結
-[Yahoo 奇摩](https://tw.yahoo.com/)
 
-//圖片
-![nkust](nkust.png "nkust")
 
 
 
