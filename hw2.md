@@ -23,7 +23,6 @@ gantt
 ![image](https://github.com/user-attachments/assets/fe8b3d19-0657-4a9e-9420-dcb8c8674008)
 
 
-(3)關鍵路徑來表示這些任務
 ### 專案關鍵路徑
 
 1. **研擬計畫** (1 天)
