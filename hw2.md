@@ -1,4 +1,4 @@
-#(1)PERT/CPM 圖
+# (1)PERT/CPM 圖
 
 ## PERT 圖
 
@@ -25,7 +25,7 @@ graph TD;
 
 
 
-##(2)甘特圖
+## (2)甘特圖
 ```mermaid
 gantt
     title A Gantt Diagram
