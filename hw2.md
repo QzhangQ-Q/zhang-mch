@@ -1,6 +1,5 @@
 (1)PERT/CPM 圖
 ```mermaid
-
 graph TD
     A[取得授權] --> B[任務分配]
     B --> C[取得硬體]
@@ -12,8 +11,9 @@ graph TD
     H --> I[系統測試]
     I --> J[使用者訓練]
     J --> K[使用者測試]
-style D fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#f9f,stroke:#333,stroke-width:2px
+
+```
+
 
 ![image](https://github.com/user-attachments/assets/fc4a6b7d-a542-4802-9722-f7e707ef9f38)
 
