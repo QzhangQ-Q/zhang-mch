@@ -1,5 +1,17 @@
 (1)PERT/CPM 圖
+```mermaid
 
+graph TD
+    A[取得授權] --> B[任務分配]
+    B --> C[取得硬體]
+    C --> D[程式開發]
+    D --> E[安裝軟體]
+    E --> F[程式測試]
+    F --> G[撰寫使用手冊]
+    G --> H[轉換檔案]
+    H --> I[系統測試]
+    I --> J[使用者訓練]
+    J --> K[使用者測試]
 ![image](https://github.com/user-attachments/assets/fc4a6b7d-a542-4802-9722-f7e707ef9f38)
 
 (2)甘特圖
