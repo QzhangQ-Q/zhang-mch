@@ -4,7 +4,8 @@
 
 (2)甘特圖
 
-![image](https://github.com/user-attachments/assets/6b015669-6a65-4d32-8994-b5d51f4cd28f)
+![image](https://github.com/user-attachments/assets/fe8b3d19-0657-4a9e-9420-dcb8c8674008)
+
 
 (3)關鍵路徑來表示這些任務
 
