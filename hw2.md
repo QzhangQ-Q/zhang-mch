@@ -25,7 +25,7 @@ graph TD;
 
 
 
-## (2)甘特圖
+# (2)甘特圖
 ```mermaid
 gantt
     title A Gantt Diagram
